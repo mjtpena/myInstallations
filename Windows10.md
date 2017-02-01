@@ -1,3 +1,4 @@
+
 # Manual Installations 
 
 
@@ -10,6 +11,7 @@
 ##Dev Tools
 * choco install visualstudio2015community -y
 * choco install visualstudiocode -y
+* choco install androidstudio -y
 * choco install git -y
 * choco install github -y
 * choco install sourcetree -y
@@ -35,16 +37,21 @@
 * choco install pip -y
 * choco install golang -y
 * choco install ruby -y
+* choco install mongodb -y
 
 ##Misc
 * choco install office365proplus -y
 * choco install fiddler4 -y
 * choco install putty -y
 * choco install openssl.light -y
+* choco install azurestorageexplorer  -y
+* choco install windowsazurepowershell -y
 * choco install skype -y
+* choco install slack -y
 * choco install 7zip -y
 * choco install dropbox -y
 * choco install teamviewer -y
 * choco install wireshark -y
 * choco install spotify -y
+* choco install vlc -y
 * choco install f.lux -y
